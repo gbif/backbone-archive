@@ -1,7 +1,7 @@
 # GBIF Backbone Archive
 
-The GBIF backbone taxonomy can be downloaded for all released versions
-since 2009. The more recent versions are provided in 2 different
+The GBIF backbone taxonomy can be downloaded for [all released versions since 2012](https://hosted-datasets.gbif.org/datasets/backbone). 
+The more recent versions are provided in 2 different
 formats:
 
 1. An entire [Darwin Core Archive](#dwca) including the core
