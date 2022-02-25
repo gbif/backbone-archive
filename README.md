@@ -1,6 +1,6 @@
 # GBIF Backbone Archive
 
-The GBIF backbone taxonomy can be downloaded for [all released versions since 2012](https://hosted-datasets.gbif.org/datasets/backbone). 
+The GBIF backbone taxonomy can be downloaded for [all released versions since 2009](https://hosted-datasets.gbif.org/datasets/backbone). 
 The more recent versions are provided in 2 different
 formats:
 
