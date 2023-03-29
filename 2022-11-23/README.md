@@ -18,6 +18,9 @@ New sources added in this version:
 As always [Plazi](https://www.gbif.org/publisher/7ce8aef0-9e92-11dc-8738-b8a03c50a862) has been adding many new publications containing new species descriptions.
 
 
+### New Vertebrate classification
+The Backbone follows Catalogue of Life that have adopted a [new Vertebrate classification]([url](https://github.com/CatalogueOfLife/testing/issues/186) that removes common taxa like Reptilia & Actinopterygii and raises former orders [Squamata]([url](https://www.catalogueoflife.org/data/taxon/45C)), [Testudines](https://www.catalogueoflife.org/data/taxon/477) and [Crocodylia](https://www.catalogueoflife.org/data/taxon/329) to class level.
+
 ### Name matching
 We have improved matching to higher taxa in case there are multiple equal matches, 
 utilising the classification of the equal matches, not just that of the query. 
